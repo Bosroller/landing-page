@@ -46,7 +46,7 @@ export default function Divisions() {
       name: 'LYRA',
       tagline: 'AI Social Media Ecosystem',
       description: 'AI assistant, AI character & complete social media production automation',
-      url: '#',
+      url: 'https://lyra.kilincarslanenterprises.com',
       gradient: 'from-cyan-400 to-purple-500',
       glowColor: 'rgba(147, 51, 234, 0.4)',
     },
